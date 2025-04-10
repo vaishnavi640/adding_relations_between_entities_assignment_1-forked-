@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
